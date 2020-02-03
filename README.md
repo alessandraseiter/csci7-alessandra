@@ -1,1 +1,1 @@
-# cscie7_spring2020
+# csci7-alessandra
